@@ -1,4 +1,4 @@
-DailyP
+DailyProg
 ======
 
 Daily Programmer Exercises
